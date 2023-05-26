@@ -2,7 +2,7 @@
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Sara Moreira.G :octocat:
+# Hi, I'm Sara Moreira.G 🐵:
 
 Full-Stack Developer  :woman_technologist:.
 

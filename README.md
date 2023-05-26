@@ -11,7 +11,7 @@ Full-Stack Developer  :man_technologist:.
 
 🌧️: Rainy Days | :computer: Programming
 
-- :earth_europe: I'm from Madrid - Spain
+- 🌍: I'm from Madrid - Spain
 - :gem: I love to customize everything
 - 🌱 I’m currently learning e-commerce & Web apps
 

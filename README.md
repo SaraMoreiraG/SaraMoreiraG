@@ -4,7 +4,7 @@
 
 # Hi, I'm Sara Moreira.G 🐒
 
-Full-Stack Developer 💻
+Full-Stack Developer 👩‍💻
 
 
 ## About me 

@@ -1,56 +1,32 @@
-<!--
-
-**ArielCalisaya/ArielCalisaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Badges Provider = https://github.com/alexandresanlim/Badges4-README.md-Profile
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🌱 I’m currently learning Nextjs, Gatsby and SSR
--->
-
-
-
-<a href="https://linkedin.com/in/arielcalisaya/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/sara-moreira-g/" target="_blank" rel="noopener noreferrer">
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Ariel C. Serrano :octocat:
+# Hi, I'm Sara Moreira.G :octocat:
 
-Frontend Developer  :man_technologist:.
+Full-Stack Developer  :man_technologist:.
 
 
 ## About me 
 
 🌧️: Rainy Days | :computer: Programming
 
-- :earth_americas: I'm from Santiago - Chile
+- :earth_europe: I'm from Madrid - Spain
 - :gem: I love to customize everything
-- 🌱 I’m currently learning SEO & Website Performance
+- 🌱 I’m currently learning e-commerce & Web apps
 
 ### I love work with :
-<a href="https://github.com/ArielCalisaya">
+<a href="https://github.com/SaraMoreiraG">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </a>
-<a href="https://github.com/ArielCalisaya">
+<a href="https://github.com/SaraMoreiraG">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </a>
 
 ---
 ### Current commits
-[![Snake animation](https://github.com/ArielCalisaya/ArielCalisaya/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/ArielCalisaya)
+[![Snake animation](https://github.com/SaraMoreiraG/SaraMoreiraG/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/SaraMoreiraG)
 
-### Monthly activity graph
-[![ArielCalisaya github activity graph](https://activity-graph.herokuapp.com/graph?username=ArielCalisaya&bg_color=000000&color=11ff00&line=05ff5d&point=ffffff&area=true&hide_border=true)](https://github.com/ArielCalisaya)
 
 ## Tech & Tools Preference
 

@@ -82,10 +82,10 @@ Full-Stack Developer 👩‍💻
 
 ---
 
-### Social Network & Payment method
+### Social Network & Contact method
 <a href="https://linkedin.com/in/arielcalisaya/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href="https://paypal.me/ArielCalisaya"> 
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+<a href="mailto:saramordev@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=black">
 </a>

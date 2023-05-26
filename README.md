@@ -4,7 +4,7 @@
 
 # Hi, I'm Sara Moreira.G :octocat:
 
-Full-Stack Developer  :man_technologist:.
+Full-Stack Developer  :woman_technologist:.
 
 
 ## About me 

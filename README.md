@@ -9,7 +9,7 @@ Full-Stack Developer 👩‍💻
 
 ## About me 
 
-🌧️: Rainy Days | :computer: Programming
+🚐: Van life | :computer: Programming
 
 - 🌍 I'm from Madrid - Spain
 - :gem: I love to customize everything

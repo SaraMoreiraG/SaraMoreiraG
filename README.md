@@ -2,7 +2,7 @@
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Sara Moreira.G 🐒
+# Hi, I'm Sara Moreira 🐒
 
 Full-Stack Developer 👩‍💻
 
@@ -12,26 +12,13 @@ Full-Stack Developer 👩‍💻
 🚐: Van life | :computer: Programming
 
 - 🌍 I'm from Madrid - Spain
-- :gem: I love to customize everything
-- 🌱 I’m currently learning e-commerce & Web apps
+- :gem: I love to make things work
+- 🌱 I’m currently learning E-commerce & Web apps
 
 ### I love work with :
 <a href="https://github.com/SaraMoreiraG">
   <img src="https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=Apple&logoColor=black">
 </a>
-<a href="https://github.com/SaraMoreiraG">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
----
-### Current commits
-[![Snake animation](https://github.com/SaraMoreiraG/SaraMoreiraG/blob/output-snake-commits/github-contribution-grid-snake.svg)](https://github.com/SaraMoreiraG)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 
 ## Tech & Tools Preference
 

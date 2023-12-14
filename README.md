@@ -10,16 +10,12 @@ Full-Stack Developer | FrontEnd JavaScript, React & Angular | BackEnd Node.js & 
 ## About me 
 
 "Just as a seed grows into a mighty tree, let your code blossom and flourish, creating digital landscapes that inspire and transform."
+
 🚐: Van life | :computer: Programming
 
 - 🌍 I'm from Madrid - Spain
 - :gem: I love to make things work
-- 🌱 I’m currently learning E-commerce & Web apps
-
-### I love work with :
-<a href="https://github.com/SaraMoreiraG">
-  <img src="https://img.shields.io/badge/Mac-FCC624?style=for-the-badge&logo=Apple&logoColor=black">
-</a>
+- 🌱 I’m currently creating E-commerces & Web apps
 
 ## Tech & Tools Preference
 

@@ -2,13 +2,14 @@
 	<img align="right" src="greeting.svg" width="400" height="200" alt="Click here!!!">
 </a>
 
-# Hi, I'm Sara Moreira 🐒
+# Hi, I'm Sara Moreira 👩‍💻
 
-Full-Stack Developer 👩‍💻
+Full-Stack Developer | FrontEnd JavaScript, React & Angular | BackEnd Node.js & Python
 
 
 ## About me 
 
+"Just as a seed grows into a mighty tree, let your code blossom and flourish, creating digital landscapes that inspire and transform."
 🚐: Van life | :computer: Programming
 
 - 🌍 I'm from Madrid - Spain
